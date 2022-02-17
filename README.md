@@ -1,7 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Swipsss&label=Profile%20views&color=0e75b6&style=flat" alt="Swipsss" /> </p>
 ## Swips#4516
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning python + c++
 - 👯 I’m coding with Teamraxy#6300
 - ⚡ I will post things in the future
