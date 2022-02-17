@@ -26,7 +26,7 @@
 ---
 
 <details>
-  <summary>:Github From Friends</summary>
+  <summary>💪Github From Friends💪</summary>
   
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#1580](https://github.com/teamraxy) in [anuraghazra/github-readme-stats](https://github.com/teamraxy)
